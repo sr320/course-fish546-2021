@@ -3,7 +3,7 @@ class: center, middle
 # FISH 546
 ## Bioinformatics for Environmental Sciences
 
-https://github.com/sr320/course-fish546-2018/wiki
+https://github.com/sr320/course-fish546-2021/wiki
 
 ##genefish.info
 

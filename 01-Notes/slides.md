@@ -3,7 +3,7 @@ class: center, middle
 # FISH 546
 ## Bioinformatics for Environmental Sciences
 
-https://github.com/sr320/course-fish546-2018/wiki
+https://github.com/sr320/course-fish546-2021/wiki
 
 Steven Roberts
 @sr320
@@ -14,8 +14,8 @@ Week 1
 ---
 # This Week
 
-- Complete the Navigating the Commandline Tutorials (note you will submit commands for a [quiz question](https://github.com/sr320/course-fish546-2018/issues/5)
-- Create a repository (see [this issue](https://github.com/sr320/course-fish546-2018/issues/8))
+- Complete the Navigating the Commandline Tutorials (note you will submit commands for a [quiz question](https://github.com/sr320/course-fish546-2021/issues/5)
+- Create a repository (see [this issue](https://github.com/sr320/course-fish546-2021/issues/8))
 - Install Local GitHub Client
 - No class Thursday (no instructor- you are welcome to work together in the classroom)
 

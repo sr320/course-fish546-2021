@@ -33,14 +33,6 @@ Variable backgrounds of students
 
 --
 
-- Mash-up of Seminar, Workshop, Online Course...
-
---
-
-- Very Active Learning
-
---
-
 - _Problem Solving_
 
 
@@ -52,8 +44,8 @@ class: center
 
 --
 
-- ## You ask questions (_submit issues_)
-- ## Come prepared (Read ahead `cat | >`)
+- ## You ask questions
+- ## Come prepared (Read)
 
 
 
@@ -128,16 +120,8 @@ class: center
 
 
 
-- I will use a partially flipped model
+- We will meet as a class on Zoom on Thursdays
 
-- Likewise you will be expected to make progress outside of class.
--
-
----
-
-
-
-### Lets Review some Biology!
 
 ---
 
@@ -151,6 +135,10 @@ class: center
 --
 
 - GitHub Account, Install Local GitHub client
+
+--
+
+- Create file in Course JupyterLab
 
 --
 
@@ -176,5 +164,6 @@ class: center
 
 - Install good Markdown Editor     
 (online options available)
+
 
 ---

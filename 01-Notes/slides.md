@@ -17,7 +17,7 @@ Week 1
 - Complete the Navigating the Commandline Tutorials (note you will submit commands for a [quiz question](https://github.com/sr320/course-fish546-2021/issues/5)
 - Create a repository (see [this issue](https://github.com/sr320/course-fish546-2021/issues/8))
 - Install Local GitHub Client
-- No class Thursday (no instructor- you are welcome to work together in the classroom)
+
 
 
 ---

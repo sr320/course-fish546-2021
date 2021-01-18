@@ -17,6 +17,11 @@ this week
 # Jupyter & Annotation
 
 ---
+class: center, middle
+
+## [Intro Video](https://washington.zoom.us/rec/play/KVE9YC0x0NlglzKMpzgLnpPN98YI-Kb0G6GVEbm1t3MV3Evc8KQcwlee4B81fs6Egj9EN5eNlUVdCng.-yp6OSvJhVDljhQr?continueMode=true)
+
+---
 
 class: center, middle
 

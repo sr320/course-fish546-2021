@@ -63,3 +63,12 @@ The FASTQ format looks like:
 - The quality data, which can also be on one or many lines, but must be the same length as the sequence. Each numeric base quality is encoded with ASCII charac‐ ters using a scheme we’ll discuss later
 
 ---
+
+
+# Working with github
+
+---
+
+# Working with remote machines
+
+---

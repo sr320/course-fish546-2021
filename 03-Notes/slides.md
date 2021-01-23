@@ -19,6 +19,46 @@ class: center, middle
 
 
 ---
+
+## Housekeeping
+
+Using Discussions
+
+Office Hours during Tuesday time period
+
+
+---
+
+## This Week
+
+-  Get Organized :)
+
+
+--
+
+- Working with Sequence Data
+
+--
+
+- Comfortable with Git / GitHub Desktop
+
+--
+
+- Remote access machines
+
+--
+
+- Data in hand.
+
+--
+
+- Preparing for Mox
+
+
+
+
+
+---
 ![ce](http://sd.keepcalm-o-matic.co.uk/i/commit-early-and-commit-often.png)
 ---
 class: center, middle
@@ -28,10 +68,6 @@ class: center, middle
 ![cpus](../img/cpu.gif)
 ---
 
-Owl
-![owlgig](../img/owl-data-download.gif)
-
----
 class: center, middle
 # Consider analysis will take longer than your laptop will be open
 

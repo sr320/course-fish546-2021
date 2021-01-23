@@ -44,7 +44,7 @@ Office Hours during Tuesday time period
 
 --
 
-- Remote access machines
+- Remote access machines (Th ssh ostrich .. rsync Mox)
 
 --
 

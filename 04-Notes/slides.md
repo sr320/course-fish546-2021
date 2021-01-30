@@ -134,14 +134,6 @@ Transrate analyses a transcriptome assembly in three key ways:
 <img src="http://gannet.fish.washington.edu/seashell/snaps/HISAT_2018-10-21_13-50-45.png" alt="HISAT_2018"/>
 
 
----
-
-## Hisat replaces Tophat
-
-Within Cyverse
-<https://github.com/sr320/course-fish546-2015/blob/master/notebooks/Sam_RNA-seq.ipynb>
-
-<img src="http://eagle.fish.washington.edu/cnidarian/skitch/Screenshot_10_24_16__8_10_AM_1DBE5C07.png" alt="Screenshot_10_24_16__8_10_AM_1DBE5C07.png"/>
 
 ---
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/eimd-sswd_eimd_analysis_ipynb_at_master_·_sr320_eimd-sswd_1DC23A83.png" alt="eimd-sswd_eimd_analysis_ipynb_at_master_·_sr320_eimd-sswd_1DC23A83.png"/>

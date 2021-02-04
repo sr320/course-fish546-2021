@@ -29,6 +29,7 @@ class: center, middle
 # FastQC
 
 Demo..
+https://youtu.be/5LYnq84Pjzk
 
 
 ---
@@ -113,9 +114,11 @@ Transrate analyses a transcriptome assembly in three key ways:
 ## Basic
 
 
-### Get Counts - do stats
+### Get Counts via pseudoalignment - do stats
 
+### Kallisto
 
+![pi](http://gannet.fish.washington.edu/seashell/snaps/About_2021-02-04_07-07-55.png)
 
 ---
 
